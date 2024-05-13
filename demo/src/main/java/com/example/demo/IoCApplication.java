@@ -10,5 +10,4 @@ public class IoCApplication {
 		SpringApplication.run(IoCApplication.class, args);
 		System.out.println("This is an example for IoC with Dependency Injection!");
 	}
-
 }

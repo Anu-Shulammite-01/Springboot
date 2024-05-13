@@ -35,5 +35,4 @@ public class MobileController {
         System.out.println("Set successfully");
         return "Success";
     }
-
 }
